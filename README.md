@@ -125,6 +125,8 @@
    - Используйте метод `maintenanceCheck()` для просмотра статуса технического обслуживания.
 ## Варианты интерпретации
 С помощью сайта https://developers.google.com/maps/documentation/utilities/polylineutility?hl=ru декодируем линию
+![image](https://github.com/user-attachments/assets/b59aa527-0c60-4fd5-9cad-265db8d64558)
+
 
 
 ## Зависимости
